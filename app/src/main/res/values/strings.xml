@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">单词助手</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="English_hint">English Word:</string>
+    <string name="add_word">添加单词</string>
+    <string name="word_mean">中文释义：</string>
+    <string name="addwords">确定</string>
+    <string name="button1">确定</string>
+    <string name="cleardata">清除数据</string>
+    <string name="turnview">切换视图</string>
+    <string name="searchData" />
+    <string name="renew">检查更新</string>
+
+</resources>

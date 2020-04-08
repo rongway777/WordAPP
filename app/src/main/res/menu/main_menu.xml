@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/clearData"
+        android:title="@string/cleardata" />
+    <item
+        android:id="@+id/renew"
+        android:title="@string/renew" />
+    <item
+        android:id="@+id/inserttext"
+        android:title="加入测试数据" />
+    <item
+        android:id="@+id/app_bar_search"
+        android:icon="@drawable/ic_search_black_24dp"
+        android:title="@string/searchData"
+        app:actionViewClass="android.widget.SearchView"
+        app:showAsAction="always" />
+</menu>
